@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">PathGuard</string>
-    <string name="app_web" translatable="false" >https://pathguard-rdyard.rhcloud.com</string>
+    <string name="app_web" translatable="false" >https://pathguard.eu.pn</string>
 
     <string name="calibrate">Calibrate</string>
     <string name="preferences">Preferences</string>
