@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PathGuard</string>
+    <string name="app_web" translatable="false" >http://pathguard.eu.pn</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-4901787861895982/2935600484</string>
+
+    <string name="calibrate">Calibrate</string>
+    <string name="preferences">Preferences</string>
+    <string name="drive">Drive Now!</string>
+    <string name="stop">Stop Driving</string>
+    
+    <string name="preferences_opening">Stop Driving before opening preferences</string>
+    
+    <string name="Instant">0.0G</string>
+
+    <string name="general">General</string>
+    <string name="general_units">Measurement System</string>
+    <string name="about">About PathGuard ...</string>
+    <string name="about_text">PathGuard is an application to complement your driving experience. PathGuard Project aims to use all the resources and sensors on your smart device and the network, to provide to the driver the latest technology that is present in latest high end Automotive market, directly in your smart device, without the need to purchase an extra device, or even change your car. Pathguard aims to improve your security by providing ADAS functionality, your economy, with intelligent power management alerts and your information about what is happening around. Visit our website for more details and even see how can you collaborate in this project.</string>
+    <string name="about_sec_button">Visit website!</string>
+    <string name="welcome">Welcome to PathGuard ...</string>
+    <string name="welcome_text">PathGuard is an application to complement your driving experience. To take maximum benefit from PathGuard, it is recommended to activate all location services to maximum precision, set your device stable on a visible and accessible place on your vehicle using a holder. At last access the menu to start navigation with the Start Driving button.</string>
+
+    <string name="general_last_trip">Last Trip</string>
+    <string name="general_trip_time">Duration</string>
+    <string name="general_trip_distance">Distance</string>
+    <string name="trip_duration">Trip Duration</string>
+
+    <string name="altitude">Altitude</string>
+
+    <string name="log">Log</string>
+    <string name="log_position">Log Position</string>
+    <string name="log_gforce">Log GForce</string>
+    <string name="log_speed">Log Speed</string>
+
+    <string name="map">Map Navigation</string>
+    <string name="map_rotate">Map Rotation</string>
+    <string name="map_rotate_summary">Rotate map according to compass data</string>
+    
+    <string name="map_3d">3D Map navigation</string>
+    <string name="map_3d_summary">Driving mode shows similar to GPS navigators</string>
+
+    <string name="map_street_zoom">Zoom level for slowest Speed</string>
+    <string name="map_street_zoom_summary">Navigator will not zoom in more than ...</string>
+    <string name="map_road_zoom">Zoom level for fastest Speed</string>
+    <string name="map_road_zoom_summary">Navigator will not zoom out more than ...</string>
+    
+    <string name="gforce">GForce</string>
+    <string name="gforce_scale">GForce Scale</string>
+    <string name="gforce_scale_summary">Maximum force shown</string>
+
+    <string name="light_warning">Light warning</string>
+    <string name="light_warning_summary">Show notification with low luminosity</string>    
+    <string name="light_warning_text">Light conditions make necessary turning on Lights</string>
+    <string name="light_warning_dontnag">Do not show again</string>
+
+    <string name="light">Light</string>
+    
+    <string name="light_calibrate_current">Calibrate to Current</string>
+    <string name="light_calibrate_current_summary">Set light detection threshold to current status</string>
+    
+    <string name="light_manual">Set manual threshold</string>
+    <string name="light_manual_summary">Current illumination value</string>
+   
+    <string name="knots">knots</string>
+    
+    <string name="miles">miles</string>
+    <string name="kilometers">kilometers</string>
+    <string name="nmiles">nautic miles</string>
+
+    <string name="feet">feet</string>
+    <string name="meters">meters</string>
+    <string name="nfeet">nautic feet</string>
+
+    <string name="seconds">seconds</string>
+    <string name="minutes">minutes</string>
+    <string name="hours">hours</string>
+    
+    <string name="International">International</string>
+    <string name="Imperial">Imperial</string>
+    <string name="Navigation">Navigation</string>
+    
+    <string name="CurrentSystem">Current Measurement System</string>
+        
+    <string-array name="units">
+        <item >@string/International</item>
+        <item >@string/Imperial</item>
+        <item >@string/Navigation</item>
+    </string-array>
+        
+    <string-array name="units_array">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+    </string-array>
+    
+    <string-array name="scale_array">
+        <item>1.5 G</item>
+        <item>3.0 G</item>
+        <item>4.5 G</item>
+        <item>6.0 G</item>
+    </string-array>
+
+    <string-array name="scale_values">
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+    </string-array>
+
+    <string-array name="filter_array">
+        <item>Slow filter</item>
+        <item>Half Filter</item>
+        <item>Fast filter</item>
+    </string-array>
+
+    <string-array name="fitler_values">
+        <item>25</item>
+        <item>50</item>
+        <item>75</item>
+    </string-array>
+    
+</resources>
