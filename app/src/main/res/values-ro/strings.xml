@@ -3,7 +3,6 @@
 
     <string name="app_name">PathGuard</string>
     <string name="app_web" translatable="false" >http://pathguard.eu.pn</string>
-    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-4901787861895982/2935600484</string>
 
     <string name="calibrate">Calibrate</string>
     <string name="preferences">Preferinte</string>
