@@ -50,8 +50,8 @@
     <string name="gforce_scale">Scala GForce</string>
     <string name="gforce_scale_summary">Forta maxima aratata</string>
 
-    <string name="light_warning">Atentie la lumina</string>
-    <string name="light_warning_summary">Arati notificarile cu luminozitate inchisa</string>    
+    <string name="light_warning">Alerta lumini</string>
+    <string name="light_warning_summary">Arati notificarile de luminozitate scazuta</string>    
     <string name="light_warning_text">Conditiile de lumina fac necesare pornirea luminilor</string>
     <string name="light_warning_dontnag">Nu mai arata din nou</string>
 
