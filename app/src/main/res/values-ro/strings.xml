@@ -6,87 +6,87 @@
     <string name="banner_ad_unit_id" translatable="false">ca-app-pub-4901787861895982/2935600484</string>
 
     <string name="calibrate">Calibrate</string>
-    <string name="preferences">Preferences</string>
-    <string name="drive">Drive Now!</string>
-    <string name="stop">Stop Driving</string>
+    <string name="preferences">Preferinte</string>
+    <string name="drive">Conduceti acum!</string>
+    <string name="stop">Opriti condusul</string>
     
-    <string name="preferences_opening">Stop Driving before opening preferences</string>
+    <string name="preferences_opening">Opreste condusul inainte de a deschide preferintele</string>
     
     <string name="Instant">0.0G</string>
 
     <string name="general">General</string>
-    <string name="general_units">Measurement System</string>
-    <string name="about">About PathGuard ...</string>
-    <string name="about_text">PathGuard is an application to complement your driving experience. PathGuard Project aims to use all the resources and sensors on your smart device and the network, to provide to the driver the latest technology that is present in latest high end Automotive market, directly in your smart device, without the need to purchase an extra device, or even change your car. Pathguard aims to improve your security by providing ADAS functionality, your economy, with intelligent power management alerts and your information about what is happening around. Visit our website for more details and even see how can you collaborate in this project.</string>
-    <string name="about_sec_button">Visit website!</string>
-    <string name="welcome">Welcome to PathGuard ...</string>
-    <string name="welcome_text">PathGuard is an application to complement your driving experience. To take maximum benefit from PathGuard, it is recommended to activate all location services to maximum precision, set your device stable on a visible and accessible place on your vehicle using a holder. At last access the menu to start navigation with the Start Driving button.</string>
+    <string name="general_units">Unitati de masura</string>
+    <string name="about">Despre PathGuard ...</string>
+    <string name="about_text">PathGuard e o applicatie ce complementeaza experienta la volan. Proiectul PathGuard urmareste sa utilizeze toate resursele si senzorii aparatului dvs. inteligent si ale retelei, pentru a oferi soferului ultimele tehnologii prezente in produsele de top din Automotive, direct in aparatul dvs. inteligent, fara a fi nevoie de a cumpara un nou aparat, sau chiar sa iti schimbi masina. Pathguard urmareste sa imbunatateasca siguranta la volan prin a oferi functionalitati ADAS, sa va faca sa economisiti, cu alerte inteligente de gestiune a puterii si a va oferi informatii despre ce se intampla in jurul dvs. Vizitati saitul nostru de internet pentru mai multe detalii si eventual observati cum puteti colabora in acest proiect.</string>
+    <string name="about_sec_button">Vizitati site-ul de internet!</string>
+    <string name="welcome">Bun venit la PathGuard ...</string>
+    <string name="welcome_text">PathGuard is an application to complement your driving experience. Pentru a putea beneficia de maximul de caracteristici ale PathGuard, este recomandad sa activati toate serviciile de localizare la precizie maxima, puneti aparatul dvs. intr-o pozitie stabila pe un loc accesibil si vizibil din masina dvs. folosind un sustinator. La final accesati meniul pentru a incepe navigarea prin apasarea butonului de Conduceti acum.</string>
 
-    <string name="general_last_trip">Last Trip</string>
-    <string name="general_trip_time">Duration</string>
-    <string name="general_trip_distance">Distance</string>
-    <string name="trip_duration">Trip Duration</string>
+    <string name="general_last_trip">Ultima calatorie</string>
+    <string name="general_trip_time">Durata</string>
+    <string name="general_trip_distance">Distanta</string>
+    <string name="trip_duration">Durata calatoriei</string>
 
-    <string name="altitude">Altitude</string>
+    <string name="altitude">Altitudine</string>
 
-    <string name="log">Log</string>
-    <string name="log_position">Log Position</string>
-    <string name="log_gforce">Log GForce</string>
-    <string name="log_speed">Log Speed</string>
+    <string name="log">Jurnal</string>
+    <string name="log_position">Jurnal de pozitie</string>
+    <string name="log_gforce">Jurnal de GForce</string>
+    <string name="log_speed">Jurnal de viteza</string>
 
-    <string name="map">Map Navigation</string>
-    <string name="map_rotate">Map Rotation</string>
-    <string name="map_rotate_summary">Rotate map according to compass data</string>
+    <string name="map">Navigatie pe harta</string>
+    <string name="map_rotate">Rotatia hartii</string>
+    <string name="map_rotate_summary">Invartiti harta luand in considerare datele busolei</string>
     
-    <string name="map_3d">3D Map navigation</string>
-    <string name="map_3d_summary">Driving mode shows similar to GPS navigators</string>
+    <string name="map_3d">Navigare harta 3D</string>
+    <string name="map_3d_summary">Modul conducere arata similar cu cel al navigatoarelor GPS</string>
 
-    <string name="map_street_zoom">Zoom level for slowest Speed</string>
-    <string name="map_street_zoom_summary">Navigator will not zoom in more than ...</string>
-    <string name="map_road_zoom">Zoom level for fastest Speed</string>
-    <string name="map_road_zoom_summary">Navigator will not zoom out more than ...</string>
+    <string name="map_street_zoom">Nivel de Zoom pentru vieteze incete</string>
+    <string name="map_street_zoom_summary">Navigatorul nu va mari imaginea mai mult decat ...</string>
+    <string name="map_road_zoom">Nivel de zoom pentru viteze rapide</string>
+    <string name="map_road_zoom_summary">Navigatorul nu va micsora imaginea mai mult decat ...</string>
     
     <string name="gforce">GForce</string>
-    <string name="gforce_scale">GForce Scale</string>
-    <string name="gforce_scale_summary">Maximum force shown</string>
+    <string name="gforce_scale">Scala GForce</string>
+    <string name="gforce_scale_summary">Forta maxima aratata</string>
 
-    <string name="light_warning">Light warning</string>
-    <string name="light_warning_summary">Show notification with low luminosity</string>    
-    <string name="light_warning_text">Light conditions make necessary turning on Lights</string>
-    <string name="light_warning_dontnag">Do not show again</string>
+    <string name="light_warning">Alerta lumini</string>
+    <string name="light_warning_summary">Arati notificarile de luminozitate scazuta</string>    
+    <string name="light_warning_text">Conditiile de lumina fac necesare pornirea luminilor</string>
+    <string name="light_warning_dontnag">Nu mai arata din nou</string>
 
-    <string name="light">Light</string>
+    <string name="light">Lumina</string>
     
-    <string name="light_calibrate_current">Calibrate to Current</string>
-    <string name="light_calibrate_current_summary">Set light detection threshold to current status</string>
+    <string name="light_calibrate_current">Calibreaza la nivelul actual</string>
+    <string name="light_calibrate_current_summary">Marcheaza nivelul de detectie a luminii la nivelul actual</string>
     
-    <string name="light_manual">Set manual threshold</string>
-    <string name="light_manual_summary">Current illumination value</string>
+    <string name="light_manual">Nivel limita selectat manual</string>
+    <string name="light_manual_summary">Valoarea curenta a luminii</string>
    
-    <string name="knots">knots</string>
+    <string name="knots">noduri</string>
     
-    <string name="miles">miles</string>
-    <string name="kilometers">kilometers</string>
-    <string name="nmiles">nautic miles</string>
+    <string name="miles">mile</string>
+    <string name="kilometers">kilometri</string>
+    <string name="nmiles">mile nautice</string>
 
-    <string name="feet">feet</string>
-    <string name="meters">meters</string>
-    <string name="nfeet">nautic feet</string>
+    <string name="feet">picioare</string>
+    <string name="meters">metri</string>
+    <string name="nfeet">picioare nautice</string>
 
-    <string name="seconds">seconds</string>
-    <string name="minutes">minutes</string>
-    <string name="hours">hours</string>
+    <string name="seconds">secunde</string>
+    <string name="minutes">minute</string>
+    <string name="hours">ore</string>
     
     <string name="International">International</string>
     <string name="Imperial">Imperial</string>
-    <string name="Navigation">Navigation</string>
+    <string name="Navigation">Maritim</string>
     
-    <string name="CurrentSystem">Current Measurement System</string>
+    <string name="CurrentSystem">Unitatile de masura selectate</string>
         
     <string-array name="units">
         <item >@string/International</item>
         <item >@string/Imperial</item>
-        <item >@string/Navigation</item>
+        <item >@string/Maritim</item>
     </string-array>
         
     <string-array name="units_array">
